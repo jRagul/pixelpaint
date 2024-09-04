@@ -201,7 +201,7 @@
   position: fixed;  
   top: 150px;       
   left: 10px;  
-  bottom: 120px;        
+  height: 470px;        
   width: 50px;     
   padding: 10px;
   background-color: #333;
